@@ -6,7 +6,7 @@ body {
 .little_table.live,
 .big_table.live {
     border: 1px rgb(21, 255, 0) solid;
-    background-color: limegreen;
+    background-color: rgb(205, 50, 179);
 }
 
 .little_table td {
@@ -30,7 +30,7 @@ body {
 }
 
 td.red {
-    background-color: ;
+    background-color: red;
 }
 
 td.blue {
@@ -42,7 +42,7 @@ td.blue {
 }
 
 .blue {
-    background-color: #1c15eb;
+    background-color: #010026;
     color: #010021;
 }
 
