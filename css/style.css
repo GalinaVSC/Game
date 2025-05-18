@@ -1,6 +1,7 @@
 body {
     margin: 0;
     background: url("../img/fon.jpg");
+    background-size:cover 
 }
 
 h1 {
