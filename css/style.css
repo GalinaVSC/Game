@@ -1,6 +1,11 @@
 body {
     margin: 0;
-    background-image: url("bg.png");
+    background: url("../img/fon.jpg");
+}
+
+h1 {
+    color: white;
+    text-align: center;
 }
 
 .little_table.live,
